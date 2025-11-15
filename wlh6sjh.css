@@ -1,0 +1,64 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * lato:
+ *   - http://typekit.com/eulas/00000000000000007735d5a0
+ *   - http://typekit.com/eulas/00000000000000007735d5a9
+ *   - http://typekit.com/eulas/0000000000000000775a0527
+ *   - http://typekit.com/eulas/0000000000000000775a0525
+ *   - http://typekit.com/eulas/0000000000000000775a0526
+ *   - http://typekit.com/eulas/00000000000000007735d5b8
+ *   - http://typekit.com/eulas/00000000000000007735d5bd
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-06-27 05:32:49 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"lato";
+src:url("l") format("woff2"),url("d") format("woff"),url("a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("l-2") format("woff2"),url("d-1") format("woff"),url("a-1") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("l-1") format("woff2"),url("d-2") format("woff"),url("a-2") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("l-3") format("woff2"),url("d-3") format("woff"),url("a-3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("l-4") format("woff2"),url("d-4") format("woff"),url("a-4") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("l-5") format("woff2"),url("d-5") format("woff"),url("a-5") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("l-6") format("woff2"),url("d-6") format("woff"),url("a-6") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+.tk-lato { font-family: "lato",sans-serif; }
